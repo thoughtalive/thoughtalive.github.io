@@ -76,7 +76,7 @@ font-family: 'Space Mono';
   font-family: 'Space Mono';
   font-size:13px!important;
   margin-top: -180px;
-  margin-right: 530px;
+  margin-right: 570px;
   margin-left: 40px;
   text-align: justify;
   transform: rotate(-20deg);
@@ -85,7 +85,15 @@ font-family: 'Space Mono';
 }
 
 .reveal h2 {
-  font-size: 1.6em; }
+  font-family: 'Space Mono';
+  font-size:13px!important;
+  margin-top: -320px;
+  margin-right: 900px;
+  margin-left: -100px;
+  text-align: left;
+  transform: rotate(0deg);
+  line-height: 1.4; 
+  letter-spacing: 1.4px; }
 
 .reveal h3 {
   font-size: 1.3em; }
@@ -102,7 +110,7 @@ font-family: 'Space Mono';
 .reveal p {
   font-family: 'Space Mono';
   font-size:13px!important;
-  margin-right: 170px;
+  margin-right: 200px;
   margin-left: 400px;
   text-align: justify;
   transform: rotate(-20deg);
